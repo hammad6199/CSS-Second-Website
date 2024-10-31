@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+div {
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: px;
+    ;
+    width: ;
+    padding: 20px;
+    ;
+}
+
+h1 {
+    color: red;
+    background-color: bisque;
+}
+
+h2 {
+    color: red;
+    background-color: #FAFAFA;
+    align-items: ;
+}
+
+.Menu {
+    background-color: #FFF5F5;
+    color: black;
+
+}
+
+.Dishes {
+    background-color: #FFF5F5;
+    color: black;
+
+}
+
+.contact {
+
+    background-color: #FFF5F5;
+    color: black;
+
+}
+
+.form {
+
+    background-color: #FFF5F5;
+    color: black;
+
+}
